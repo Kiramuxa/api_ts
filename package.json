@@ -1,0 +1,24 @@
+{
+  "name": "api_ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiramuxa/api_ts.git"
+  },
+  "author": "Kirill Mikheev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiramuxa/api_ts/issues"
+  },
+  "homepage": "https://github.com/Kiramuxa/api_ts#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33"
+  }
+}
